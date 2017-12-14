@@ -1,0 +1,14 @@
+{
+  "name": "stylelint-config-coderiety",
+  "version": "1.0.0",
+  "author": "Casey Foster <c@sey.me>",
+  "description": "stylelint configuration used by Coderiety projects.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderiety/stylelint-config-coderiety"
+  },
+  "peerDependencies": {
+    "stylelint": "8"
+  }
+}
