@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-coderiety",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Casey Foster <c@sey.me>",
   "description": "stylelint configuration used by Coderiety projects.",
   "license": "MIT",
@@ -9,6 +9,6 @@
     "url": "https://github.com/coderiety/stylelint-config-coderiety"
   },
   "peerDependencies": {
-    "stylelint": "8"
+    "stylelint": "8 || 9"
   }
 }
