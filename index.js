@@ -108,7 +108,7 @@ module.exports = {
     'selector-class-pattern': '^[a-zA-Z0-9-]+$',
     'selector-combinator-space-after': 'always',
     'selector-combinator-space-before': 'always',
-    'selector-id-pattern': '^[a-zA-Z0-9]+$',
+    'selector-id-pattern': '^[a-zA-Z0-9-]+$',
     'selector-list-comma-newline-after': 'always',
     'selector-list-comma-newline-before': null,
     'selector-list-comma-space-after': null,
